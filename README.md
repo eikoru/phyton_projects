@@ -1,1 +1,2 @@
-some simple projects I did when I was first year
+Some simple projects I did when I was in my first year.
+
